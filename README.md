@@ -1,7 +1,7 @@
 # gitbook用ForkMeRibon追加テンプレート
 ---
 ## 使い方
-1. 使用したいgitbookのフォルダに当リポにある以下フォルダ・ファイルを追加してください。
+1. 使用したいgitbookのフォルダに当リポにある以下のフォルダ・ファイルを追加してください。
   - book.json
   - _layouts
   - forkme.css
